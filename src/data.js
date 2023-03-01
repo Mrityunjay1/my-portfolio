@@ -15,10 +15,6 @@ export const filters = [
     id: "dashboard",
   },
   {
-    name: "Mobile App",
-    id: "mobile-app",
-  },
-  {
     name: "Website",
     id: "website",
   },
@@ -43,21 +39,12 @@ export const projects = [
     tags: ["mobile-app"],
     url: "https://tsla-ui.netlify.app/",
   },
-  // {
-  //     name: "We Are Solving Global Problems",
-  //     image: p4,
-  //     tags: ["mobile-app"],
-  // },
-  // {
-  //     name: "The English Tea Ceremony",
-  //     image: p5,
-  //     tags: ["website", "dashboard"],
-  // },
-  // {
-  //     name: "Saving Photo Memories",
-  //     image: p6,
-  //     tags: ["website"],
-  // },
+  {
+    name: "Tic-Tac-Toe",
+    image: p4,
+    tags: ["mobile-app"],
+    url: "https://tic-tac-toe-js123.netlify.app/",
+  },
 ];
 
 export const achievements = [

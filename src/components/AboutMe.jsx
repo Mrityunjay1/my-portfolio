@@ -40,10 +40,17 @@ const AboutMe = () => {
 
         {/* PARAGRAPH START */}
         <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it
+          As a Frontend Developer and DevOps Engineer, I have experience in both
+          building and deploying web applications. On the frontend, I am
+          proficient in using React, JavaScript, HTML, and CSS to create
+          responsive and user-friendly interfaces. On the DevOps side, I have
+          experience in configuring and maintaining servers, setting up
+          continuous integration and deployment pipelines, and monitoring and
+          troubleshooting production systems. I am comfortable working with
+          cloud infrastructure, such as AWS and Azure, and have experience with
+          containerization using Docker. With my skills, I can ensure that web
+          applications are delivered to customers quickly, securely, and with
+          high availability.
         </Div>
         {/* PARAGRAPH END */}
 
@@ -53,18 +60,6 @@ const AboutMe = () => {
           industry. Lorem Ipsum has been the industry's standard dummy text ever
           since the 1500s, when an unknown printer took a galley of type and
           scrambled it
-        </Div>
-        {/* PARAGRAPH END */}
-
-        {/* PARAGRAPH START */}
-        <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] relative">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled itLorem Ipsum is simply dummy text of the printing and
-          typesetting industry. Lorem Ipsum has been the industry's standard
-          dummy text ever since the 1500s, when an unknown printer took a galley
-          of type and scrambled it
         </Div>
         {/* PARAGRAPH END */}
       </Wrapper>
