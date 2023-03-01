@@ -100,8 +100,7 @@ const HeroBanner = () => {
           </div>
           <div className="max-w-[510px]">
             I create and maintain modern websites and applications. I solve all
-            your business problems. Lorem Ipsum is simply dummy text of the
-            printing and typesetting industry.
+            your business problems.
           </div>
         </motion.div>
         {/* INTRO END */}
