@@ -42,7 +42,7 @@ export const projects = [
   {
     name: "Feeds Clone",
     image: p4,
-    tags: ["mobile-app","website],
+    tags: ["mobile-app","website"],
     url: "https://feeds-app-three.vercel.app/",
   },
 ];
