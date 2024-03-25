@@ -25,7 +25,7 @@ export const projects = [
     name: "Ecommerce Using Redux-Toolkit",
     image: p1,
     tags: ["dashboard", "mobile-app"],
-    url: "https://creative-halva-8e9695.netlify.app/",
+    url: "https://spiffy-hamster-4a2c84.netlify.app/",
   },
   {
     name: "Drag n Drop",
@@ -40,10 +40,10 @@ export const projects = [
     url: "https://tsla-ui.netlify.app/",
   },
   {
-    name: "Tic-Tac-Toe",
+    name: "Feeds Clone",
     image: p4,
-    tags: ["mobile-app"],
-    url: "https://tic-tac-toe-js123.netlify.app/",
+    tags: ["mobile-app","website],
+    url: "https://feeds-app-three.vercel.app/",
   },
 ];
 
